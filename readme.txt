@@ -1,2 +1,2 @@
 create first file
-git is free software
+git is free software under GPL
